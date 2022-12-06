@@ -1,6 +1,3 @@
 - 👋 Hi, I’m Dongmin Kim who is working at Seoul Robotics as software engineer.
 
-<!---
-DK-sr/DK-sr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=DK-sr&show_icons=true&theme=onedark">
