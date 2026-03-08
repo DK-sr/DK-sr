@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Dongmin Kim who is working at Seoul Robotics as software engineer.
+
